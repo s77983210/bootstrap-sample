@@ -1,0 +1,50 @@
+.logo{
+	max-width: 100%;
+	width: 111px;
+	height: 40px;
+}
+
+.title{
+	font-family: NotoSansCJKtc-Regular;
+	font-size: 16px;
+	color: #636057;
+	letter-spacing: 0;
+	text-align: center;
+}
+
+.btnlogin{
+	background: #FFDF65;
+	width: 96px;
+	height: 38px;
+	border: 1px solid #FFDF65;
+	border-radius: 19px;
+	border-radius: 19px;
+	font-weight:bold;
+}
+
+.btnsub{
+	border: 2px solid #858377;
+	width: 96px;
+	height: 38px;
+	border-radius: 19px;
+	border-radius: 19px;
+	font-weight:bold;
+}
+.navbar-brand{
+	margin-right: 3.4%;
+}
+
+hr{
+	border: 5px solid #FFDF65;
+	margin : 0px;
+	opacity: 1;
+}
+
+.btn-warning{
+	background: #FFDF65;
+	font-family: NotoSansCJKtc-Bold;
+}
+
+.badge.bg-light{
+	background-color: #E8E8DB;
+}

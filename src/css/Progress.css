@@ -1,0 +1,29 @@
+
+*{
+    font-family: "Baloo Tamma 2";
+}
+
+
+.ls-3{
+    letter-spacing: 3px;
+}
+.img1{
+    max-width: 100%;
+}
+
+.btn{
+    border-radius: 26px;
+}
+
+.nav-link.active{
+    border-bottom: solid #FFDF65;
+}
+.icon-30{
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+}
+
+img{
+    max-width: 100%;
+}
